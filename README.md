@@ -16,9 +16,9 @@ Este procedimento e realizado apenas uma vez.
 ## Layout
 
 <p align="center">
-  <img width="800" src="Tela1.png">
-  <img width="800" src="Tela2.png">
-  <img width="800" src="Tela3.png">
+  <img width="1000" src="Tela1.png">
+  <img width="1000" src="Tela2.png">
+  <img width="1000" src="Tela3.png">
 </P>
 
 ## Como execultar o projeto
